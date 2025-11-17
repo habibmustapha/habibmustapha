@@ -13,8 +13,7 @@
 - [Portfolio](https://mustaphaelhabib.me/) 🌐
 
 🧩 **Learning Journey**
-- Working on AI-powered Workout & Nutrition Assistant 🤖
 - Exploring microservices architecture and advanced backend concepts
-- Improving web development skills for opportunities in Germany/USA 🇩🇪🇺🇸
+- Improving web development skills for opportunities 🇩🇪🇺🇸
 
 Feel free to explore my GitHub repositories to see my projects and learning journey! 🚀
