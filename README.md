@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Habib 👋
 
-<!--
-**habibmustapha/habibmustapha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate software developer exploring **Full-Stack Web Development** and AI-powered tools 🤖.
 
-Here are some ideas to get you started:
+💻 **Skills**
+- **Programming Languages:** JavaScript, Python, PHP
+- **Frontend:** React, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express, MySQL/MongoDB
+- **Tools & Technologies:** Git 🐙, Docker 🐳, APIs 🌐, Linux 🐧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Connect with Me**
+- [LinkedIn](www.linkedin.com/in/mustaphaelhabib) 📎
+- [Portfolio](https://mustaphaelhabib.me/) 🌐
+
+🧩 **Learning Journey**
+- Working on AI-powered Workout & Nutrition Assistant 🤖
+- Exploring microservices architecture and advanced backend concepts
+- Improving web development skills for opportunities in Germany/USA 🇩🇪🇺🇸
+
+Feel free to explore my GitHub repositories to see my projects and learning journey! 🚀
