@@ -1,6 +1,6 @@
 # Hello, I'm Habib 👋
 
-🚀 A passionate software developer exploring **Full-Stack Web Development** and AI-powered tools 🤖.
+🚀 A passionate software developer exploring **Full-Stack Development** and AI-powered tools 🤖.
 
 💻 **Skills**
 - **Programming Languages:** JavaScript, Python, PHP
@@ -14,6 +14,5 @@
 
 🧩 **Learning Journey**
 - Exploring microservices architecture and advanced backend concepts
-- Improving web development skills for opportunities 🇩🇪🇺🇸
 
 Feel free to explore my GitHub repositories to see my projects and learning journey! 🚀
